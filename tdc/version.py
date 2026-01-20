@@ -1,5 +1,4 @@
-"""TDC version file
-"""
+"""TDC version file"""
 # Based on NiLearn package
 # License: simplified BSD
 
@@ -19,4 +18,4 @@
 # Dev branch marker is: 'X.Y.dev' or 'X.Y.devN' where N is an integer.
 # 'X.Y.dev0' is the canonical version of 'X.Y.dev'
 #
-__version__ = "1.1.14"  # pragma: no cover
+__version__ = "1.1.16"  # pragma: no cover
